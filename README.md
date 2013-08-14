@@ -9,8 +9,11 @@ Special thanks to:
 ==============
 
 Vattic: Created original Faithful pack
+
 d3fin3d: Created water texture
+
 Daeshik: Created smaller flame
+
 AntVenom: Bright green grass
 
 Licensing:
