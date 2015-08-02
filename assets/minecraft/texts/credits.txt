@@ -19,7 +19,7 @@
 §7Ingame artwork and paintings:
 §f			Kristoffer Zetterstrand
 
-§7Original end game narrative:
+§7End game narrative:
 §f			Julian Gough
 
 §7Website development:
@@ -65,7 +65,7 @@
 §7Created by:
 §f			PokeCanada
 
-§7Alpha/Beta/Old sounds extracted by:
+§7Original sounds extracted by:
 §f			PokeCanada
 §f			SilverStarHatena
 
@@ -73,11 +73,13 @@
 §f			Vattic…
 §9			…for the Faithful Resource Pack
 §f			AntVenom…
-§9			…for the green grass
+§9			…for the green grass (it's very sexy! <3)
+§f			and the community…
+§9			…for all the support!
 
-§7Thanks for the support everyone! I hope that I'll keep making updates for this pack as Minecraft updates!
+§7Thanks for the support everyone! I hope to keep creating this resource pack for versions to come!
 
-
+§fBy the way, these credits are heavily out of date. I'll eventually update them some day. I don't know when that day will be, but I think that it'll be soon enough.
 
 
 

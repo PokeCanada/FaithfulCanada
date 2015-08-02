@@ -1,0 +1,24 @@
+FaithfulCanada 1.3.1 Changelog
+
+I've updated the GitHub files to current 1.3.1 files (GitHub features the regular pack, however, the PVP pack will be added soon as well.)
+
+-Updated Pack Icons
+	-The regular pack and PVP pack now have separate icons to tell them apart
+	-I've also updated the pack descriptions to make the two packs more distinguishable
+-Updated Arrow Icon to match entity colour
+-Made Beacon Beam Brighter
+-Diamonds and diamond armour now match the colour of their tools
+-Leather armour overlay has been removed (again)
+-Ender Pearl colour changed from red to purple
+-Updated armour slot designs
+-Updated item frame icon
+-The wet sponge actually resembles the original sponge
+-Updated dirt background thingy
+-Updated a couple buttons
+	-Will add the lock buttons next update
+-There's a couple of pretty pictures that have been added, see which ones you can find!
+-Added a bunch of customizing stuff
+-Grass is 200% greener
+
+-Reverted diamond ore to original texture
+-Reverted bed colour, however, the blue texture is still located in the blocks folder for anyone who wants to use it still.

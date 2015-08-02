@@ -1,0 +1,39 @@
+{
+    "useAmbientOcclusion": true,
+    "inventoryRender3D": false,
+    "elements": [
+        {   "type": "cube",
+            "from": [ 0, 3, 0 ],
+            "to": [ 16, 9, 16 ],
+            "faceData": {
+                "down": { "uv": [ 0, 0, 16, 16 ], "textureFacing": "down", "cull": false },
+                "up": { "uv": [ 16, 0, 0, 16 ], "textureFacing": "up", "rotation": 270, "cull": false },
+                "north": { "uv": [ 0, 7, 16, 13 ], "textureFacing": "north" },
+                "east": { "uv": [ 16, 7, 0, 13 ], "textureFacing": "east" },
+                "west": { "uv": [ 16, 13, 0, 7 ], "textureFacing": "west", "rotation": 180 }
+            }
+        },
+        {   "type": "cube",
+            "from": [ 0, 0, 0 ],
+            "to": [ 3, 3, 3 ],
+            "faceData": {
+                "down": { "uv": [ 13, 13, 16, 16 ], "textureFacing": "down", "cull": true },
+                "north": { "uv": [ 13, 13, 16, 16 ], "textureFacing": "north" },
+                "south": { "uv": [ 13, 13, 16, 16 ], "textureFacing": "south" },
+                "east": { "uv": [ 3, 13, 0, 16 ], "textureFacing": "east" },
+                "west": { "uv": [ 0, 13, 3, 16 ], "textureFacing": "west" }
+            }
+        },
+        {   "type": "cube",
+            "from": [ 13, 0, 0 ],
+            "to": [ 16, 3, 3 ],
+            "faceData": {
+                "down": { "uv": [ 13, 13, 16, 16 ], "textureFacing": "down", "cull": true },
+                "north": { "uv": [ 13, 13, 16, 16 ], "textureFacing": "north" },
+                "south": { "uv": [ 13, 13, 16, 16 ], "textureFacing": "south" },
+                "east": { "uv": [ 3, 13, 0, 16 ], "textureFacing": "east" },
+                "west": { "uv": [ 3, 13, 0, 16 ], "textureFacing": "west" }
+            }
+        }
+    ]
+}
