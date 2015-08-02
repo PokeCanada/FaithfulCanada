@@ -1,11 +1,9 @@
 FaithfulCanada
 ==============
 
-Ye ol' special files for FaithfulCanada.
+All the fantastic and mythical files for FaithfulCanada.
 
-Feel free to head to the [Overcast Network Forums](https://oc.tc/forums/topics/51d339e8ba6087f8000055c8) to download this pack and see any new updates!
-
-For various other great things, check out my website [here](http://www.pokecanada.com)!
+Feel free to head to the [Overcast Network Forums](https://oc.tc/forums/topics/55bda00067d52222b00085f0) to download this pack and see any new updates!
 
 Special thanks to:
 ==============
@@ -15,6 +13,8 @@ Vattic: Created original Faithful pack
 AntVenom: Bright green grass
 
 Mojang: Old nostalgic sounds <3
+
+Plastix: Fancy customization options
 
 Everything else was created by me.
 
